@@ -1,4 +1,7 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode Challenge 2023
+
+I will learn HTML, CSS, JS for the next 100 days.
+If it's possible i'd also learn React, Node, MongoDB.
 
 ## Contents
 
